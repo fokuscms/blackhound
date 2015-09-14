@@ -1,6 +1,7 @@
 {
   "name" : "fokuscms/blackhound",
   "description" : "The framework behind fokus cms",
+  "license": "MIT",
   "repositories": [
     {
       "type": "git",
