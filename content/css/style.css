@@ -1,0 +1,25 @@
+* {margin: 0; padding: 0;}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 100vh;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 480px;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+h1 {font-size: 32px; font-weight: 600;}
+h2 {font-size: 24px; font-weight: 300;}
+
+img {
+    max-width: 50%;
+    height: auto;
+}

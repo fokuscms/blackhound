@@ -1,0 +1,19 @@
+{
+  "name" : "fokuscms/blackhound",
+  "description" : "The framework behind fokus cms",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/fokuscms/components.git"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "fokuscms/components": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "system/app/"
+    }
+  }
+}
