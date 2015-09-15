@@ -22,6 +22,7 @@ Replace `<your-project-name>` with the name of your project. The  new directory 
 
 ## Testing your installation
 Just visit the directory you created and you will see the following Welcome screen:
+![The Welcome Screen](http://blackhound.de/docs/images/welcome-screen.jpg)
 
 > **Notes for experienced developers:** You may comment that it is not the very best way to have the `index.php` as the entry point for the application but use a public folder where the virtual host points to. You are definitely right with this. But we still decided for this way, because Blackhound is mainly made to be the framework behind fokus² cms and this Content-Management-System is used by many users on the free hosting services that do not support changing the document root. For the future we are going to serve an alternative way, but for now this must be okay.
 
