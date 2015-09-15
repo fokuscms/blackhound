@@ -1,4 +1,7 @@
 # Quickstart
+
+**Note:** You will find the complete documentation in the projects website: [http://blackhound.de/docs/](http://blackhound.de/docs/)
+
 ## What`s this guide about?
 This little guide is for getting started with Blackhound. It will give you a simple step-by-step introduction in how to create a small application with the framework. You will understand the basic concepts after working through this guide. Further details are explained in the full documentation.
 ## What is Blackhound?
