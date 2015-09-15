@@ -1,11 +1,11 @@
 # Quickstart
 ## What`s this guide about?
-This little guide is for getting started with the FKS. It will give you a simple step-by-step introduction in how to create a small application with the framework. You will understand the basic concepts after working through this guide. Further details are explained in the full documentation.
+This little guide is for getting started with Blackhound. It will give you a simple step-by-step introduction in how to create a small application with the framework. You will understand the basic concepts after working through this guide. Further details are explained in the full documentation.
 ## What is Blackhound?
 Blackhound is a simple PHP-based framework which was created as the foundation of the **fokus² CMS**. It was made using conventions and components that are common in web development to ensure that you are able to refine this framework with us as well.
 
 Blackhound is made using components of many other famous PHP projects as the [Symfony2](http://symfony.com/) components and using [Illuminate](https://github.com/illuminate) components (Laravel). But the framework is kept simpler than the other frameworks and was created to support developer in creating applications as fast as possible and with less boundaries.
-##Installing Blackhound
+## Installing Blackhound
 The setup of this framework is very simple and has following requirements:
 
 - A web server (something like the Apache module mod_rewrite is recommended)
@@ -23,7 +23,7 @@ Replace `<your-project-name>` with the name of your project. The  new directory 
 ## Testing your installation
 Just visit the directory you created and you will see the following Welcome screen:
 
-> **Notes for experienced developers:** You may comment that it is not the very best way to have the `index.php` as the entry point for the application but use a public folder where the virtual host points to. You are definitely right with this. But we still decided for this way. That`s because Blackhound is mainly made to be the framework behind fokus² CMS and this CMS is used by many users on the free hosting services that do not support changing the document root. For the future we are going to serve an alternative way, but for now this must be okay.
+> **Notes for experienced developers:** You may comment that it is not the very best way to have the `index.php` as the entry point for the application but use a public folder where the virtual host points to. You are definitely right with this. But we still decided for this way, because Blackhound is mainly made to be the framework behind fokus² cms and this Content-Management-System is used by many users on the free hosting services that do not support changing the document root. For the future we are going to serve an alternative way, but for now this must be okay.
 
 ## Hello World
 So far we have successfully installed Blackhound and now it's time to create our first application.
