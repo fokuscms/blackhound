@@ -22,6 +22,7 @@ Now move in your command line tool to the directory where your project should be
 	composer create-project fokuscms/blackhound <your-project-name> --prefer-dist
 
 Replace `<your-project-name>` with the name of your project. The  new directory that was created by composer will be your project root.
+> **Note for Alpha** As there isn't any stable version yet, you should prepend the flags `-s dev` to the command above. You also need git installed to be able to download the fokuscms components.
 
 ## Testing your installation
 Just visit the directory you created and you will see the following Welcome screen:
